@@ -3,4 +3,4 @@
 <h2> Glad to see you here </h2>
 <h1> Good job Justin on learning Devops</h1>
 <h1> I can't wait to start making big 6 figures for the glory of God</h1>
-<h3> By the grace of God, i will made it.
+<h3> By the grace of God, i will made it </h3>
